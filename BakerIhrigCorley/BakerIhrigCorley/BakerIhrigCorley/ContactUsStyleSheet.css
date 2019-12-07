@@ -1,0 +1,11 @@
+﻿body {
+}
+a:link{
+    color:white;
+}
+a:hover{
+    color:whitesmoke;
+}
+a:active{
+    color:red;
+}
